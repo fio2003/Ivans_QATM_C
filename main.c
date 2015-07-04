@@ -2,9 +2,9 @@
  * main.cpp
  *
  *  Created on: 27 мая 2015 г.
- *      Author: vanya
+ *  Author: vanya
+ *  Copyright: I do not allow to copy any line of this code until release
  */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h> 
